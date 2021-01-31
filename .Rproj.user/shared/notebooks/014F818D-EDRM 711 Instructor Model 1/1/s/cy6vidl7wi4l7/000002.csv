@@ -1,0 +1,7 @@
+"0",""
+"0","# I put the frequencies and proportions in a table, but there are only a few"
+"0","# of these so I put those in a narrative instead of showing the table."
+"0",""
+"0","cbind(ses.counts, ses.props)"
+"2","Error in cbind(ses.counts, ses.props) : object 'ses.counts' not found
+"
